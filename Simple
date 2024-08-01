@@ -1,0 +1,6 @@
+class simple
+{
+public static void main args []{
+syatem.out.println"hello")
+}
+}
